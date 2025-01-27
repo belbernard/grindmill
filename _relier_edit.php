@@ -1,6 +1,6 @@
 <?php
 // session_start();
-define('BASE',"ccrssovhrpgrindm");
+define('BASE',"$$$");
 $local_database_host  = "$$$";
 $local_database_user = "$$$";
 $local_database_pwd = "$$$";
